@@ -51,7 +51,9 @@ var floor1item = shuffle([
 // 1x Floor 2 Shop
 var burnrateorcoldhardcash = shuffle([
 	"Cold Hard Cash",
-	"Burn Rate"
+	"Burn Rate",
+	
+	"Lightning Capital"
 ]);
 
 ////////////////////////////////
@@ -64,7 +66,10 @@ var goldcoin = shuffle([
 	pick(["Tax Evasion", "Capital Gains", "Hostile Takeover"]),
 	
 	"Goldeneye",
-	"Margin Economics"
+	"Margin Economics",
+	"Bank Account",
+	"Startup Venture",
+	"Last in Stock"
 ]);
 
 ////////////////////////////////
@@ -79,7 +84,8 @@ var commonlist_basic = shuffle([
 	
 	"Tail Whip",
 	"Deductable",
-	"Subsidy"
+	"Subsidy",
+	"Delayed Income"
 ]);
 
 ////////////////////////////////
@@ -100,7 +106,9 @@ var commonlist_advanced = shuffle([
 	"Pawn Shop",
 	"Defraud",
 	"Pump and Dump",
-	"Buy Low"
+	"Buy Low",
+	"Limited Time Offer",
+	"Long Term Contract"
 ]);
 
 ////////////////////////////////
